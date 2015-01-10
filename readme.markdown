@@ -1,5 +1,7 @@
 # Spotify Playlist Generator
 
+![Build Status](https://ci.appveyor.com/api/projects/status/github/jpsingleton/Spotify-Playlist-Generator?retina=true "Build Status")
+
 I’ve made a Spotify Playlist Generator that uses Last.fm to find songs by similar artists.
 
 It’s Windows only (WPF) and it requires the .NET framework v3.5 or greater. The source code is available under the GPLv3 if you would like to build on it.
