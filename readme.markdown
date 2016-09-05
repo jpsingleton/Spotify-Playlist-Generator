@@ -2,6 +2,8 @@
 
 ![Build Status](https://ci.appveyor.com/api/projects/status/github/jpsingleton/Spotify-Playlist-Generator?retina=true "Build Status")
 
+![Spotify Playlist Generator Screenshot](https://unop.uk/wp-content/uploads/2011/07/PlaylistGenerator-ScreenShot.png "Spotify Playlist Generator Screenshot")
+
 I’ve made a Spotify Playlist Generator that uses Last.fm to find songs by similar artists.
 
 It’s Windows only (WPF) and it requires the .NET framework v3.5 or greater. The source code is available under the GPLv3 if you would like to build on it.
@@ -26,6 +28,6 @@ And even the maximum number of tracks per artist:
 * e.g. PlaylistGenerator.exe GB 49 3. 
 If you modify these then they are displayed in the main window when you first run it.
 
-Thanks to http://www.doogal.co.uk/spotify.php and http://code.google.com/p/lastfm-sharp/
+Thanks to http://www.doogal.co.uk/spotify.php and http://code.google.com/p/lastfm-sharp
 
 “This product uses a SPOTIFY API but is not endorsed, certified or otherwise approved in any way by Spotify. Spotify is the registered trade mark of the Spotify Group.”
